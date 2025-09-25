@@ -17,13 +17,15 @@ It contains both **end-to-end** and **component** tests written to validate diff
 
 ## 🛠️ Skills Demonstrated
 
--Writing structured test cases
+- Writing structured test cases
 
--Automating UI flows with Cypress
+- Automating UI flows with Cypress
 
--Performing component testing
+- Performing E2E testing
 
--Collaborating in Agile/Scrum environments
+- Performing component testing
+
+- Collaborating in Agile/Scrum environments
 
 ---
 
@@ -47,14 +49,4 @@ It contains both **end-to-end** and **component** tests written to validate diff
 
 ⭐ Why This Repo?
 
-This project is designed to showcase my QA engineering skills in:
-
-**Writing structured test cases
-
-**Automating UI flows with Cypress
-
-**Performing component testing
-
-**Collaborating in Agile/Scrum environments
-
-If you’d like to connect about QA Engineer roles, feel free to reach out!# Cypress Project Showcase
+This project is designed to showcase my QA engineering skills.

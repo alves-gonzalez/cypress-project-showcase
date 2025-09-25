@@ -16,21 +16,22 @@ It contains both **end-to-end** and **component** tests written to validate diff
 ---
 
 ## 🛠️ Skills Demonstrated
-- Functional, regression, exploratory, smoke, and UI testing  
-- Component testing with Cypress  
-- API validation with Postman (outside this repo but part of workflow)  
-- Writing and maintaining reusable test cases  
-- Using **Jira** and **TestRail** for test management  
-- Test automation with **Cypress** and **Playwright**  
-- Debugging using **Chrome DevTools**
+
+-Writing structured test cases
+
+-Automating UI flows with Cypress
+
+-Performing component testing
+
+-Collaborating in Agile/Scrum environments
 
 ---
 
 ## ⚙️ Tech Stack
 - **Languages:** JavaScript, HTML, CSS  
-- **Frameworks:** Cypress, Playwright  
-- **Platforms:** Windows, macOS, Linux, iOS, Android  
-- **Tools:** Jira, TestRail, Postman, Charles Proxy, MySQL  
+- **Frameworks:** Cypress
+- **Platforms:** Windows 
+- **Tools:** Visual Studio Code 
 
 ---
 
